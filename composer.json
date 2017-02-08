@@ -1,5 +1,5 @@
 {
-    "name": "coldtrick/custom_css",
+    "name": "pleio/custom_css",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": "~1.0"
